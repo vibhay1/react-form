@@ -1,0 +1,22 @@
+.selectopt{
+   z-index: 0;
+}
+.select_search{
+    display: none !important;
+}
+
+.ss_search{
+z-index: 1;
+}
+.ss_search_box{
+    z-index: 10000;
+    }
+.ss_search  li{
+    list-style-type: none;
+padding: 2px 5px;
+cursor: pointer;
+}
+.ss_search  li:hover{
+    background-color: rgba(174, 200, 230, 0.952);
+    
+}
